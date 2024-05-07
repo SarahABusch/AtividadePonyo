@@ -1,0 +1,12 @@
+* {
+    font-family:"Open Sans", sans-serif;
+}
+
+body {
+    background-color:#93c5fd;
+    color: #2563eb;
+}
+
+h1,h2,h3 {
+    color: #6366f1;
+}
